@@ -1,0 +1,13 @@
+package bo.com.capacitacion.capacitacion_service;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CapacitacionServiceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CapacitacionServiceApplication.class, args);
+	}
+
+}
